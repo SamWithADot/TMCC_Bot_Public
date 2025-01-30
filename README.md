@@ -4,7 +4,7 @@
 - Replies in the thread if a tag is added  
 - Sends and pins a checklist in a new thread (Advisors+)
 
-# The following commands
+# The following commands:
   - /Prompt <name> This lets you pick from a few prompts and it will send it in the channel
   - /ask_for_help Sends a prompt about how to ask for help, includes a message to move to #ask-for-help if triggered in another channel
   - /sync syncs commands with discord (Owner only)
