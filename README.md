@@ -3,6 +3,7 @@
 - Auto replies to videos from certain channel. It needs more prompts and the prompts need better formating.
 - Replies in the thread if a tag is added  
 - Sends and pins a checklist in a new thread (Advisors+)
+- Bot backs up archive to a DB
 
 # The following commands:
   - /Prompt <name> This lets you pick from a few prompts and it will send it in the channel
@@ -13,7 +14,7 @@
 
 # Rough to do list:
 - Bot posts all the archival messages so any of the archivers can edit them.
-- Bot backs up archive to a DB and to mega.
+- Back up db to mega
 - A website which has all of the archived posts from TMCC. The bot will backup any changes to the DB and to the website. The backup to mega will be done at a set time (eg, every week on monday)
 - Having a LLM check posts against the guideline when a new submission is created
 - Simple querry recognition for #ask-for-help (eg: why is my tnt not duping, is litematica updated)
