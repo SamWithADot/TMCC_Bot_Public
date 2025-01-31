@@ -18,8 +18,6 @@
 - A website which has all of the archived posts from TMCC. The bot will backup any changes to the DB and to the website. The backup to mega will be done at a set time (eg, every week on monday)
 - Having a LLM check posts against the guideline when a new submission is created
 - Simple querry recognition for #ask-for-help (eg: why is my tnt not duping, is litematica updated)
-- Upload notification for certain youtuber (maybe)
-- Better formating on mesages, planing to shift most of the bots messages to embeds
 - Add an options to configure aliases, variables, copy pastes etc. Basically some commands to interface with the DB.
 - Possibly looking into translating videos. It would likely need people to look over it but it should help cut down some of the work atleast.
 - A command to count the number of posts that have each tags in submission.
