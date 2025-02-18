@@ -3,19 +3,16 @@
 - Auto replies to videos from certain channel. It needs more prompts and the prompts need better formating.
 - Replies in the thread if a tag is added  
 - Sends and pins a checklist in a new thread (Advisors+)
-- Bot backs up archive to a DB
+- Bot backs up archive to a DB. This is still a WIP
 
 # The following commands:
-  - /Prompt <name> This lets you pick from a few prompts and it will send it in the channel
-  - /ask_for_help Sends a prompt about how to ask for help, includes a message to move to #ask-for-help if triggered in another channel
-  - /sync syncs commands with discord (Owner only)
-  - /edit_checklist Brings up a button pannel to edit the checlist creates in submission channel. (Advisor+)      
-
+  - /Prompt <name>: This lets you pick from a few prompts and it will send it in the channel
+  - /sync: syncs commands with discord (Owner only)
+  - /edit_checklist: Brings up a button pannel to edit the checlist creates in submission channel. (Advisor+)      
 
 # Rough to do list:
 - Bot posts all the archival messages so any of the archivers can edit them.
-- Back up db to mega
-- A website which has all of the archived posts from TMCC. The bot will backup any changes to the DB and to the website. The backup to mega will be done at a set time (eg, every week on monday)
+- A website which has all of the archived posts from TMCC. 
 - Having a LLM check posts against the guideline when a new submission is created
 - Simple querry recognition for #ask-for-help (eg: why is my tnt not duping, is litematica updated)
 - Add an options to configure aliases, variables, copy pastes etc. Basically some commands to interface with the DB.
