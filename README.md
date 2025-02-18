@@ -18,7 +18,6 @@
 - Add an options to configure aliases, variables, copy pastes etc. Basically some commands to interface with the DB.
 - Possibly looking into translating videos. It would likely need people to look over it but it should help cut down some of the work atleast.
 - A command to count the number of posts that have each tags in submission.
-- (possibly) Make ephemeral messages from the bot timeout after a certain time 
 - Better tag managment system
   - Adding a command to set the tag (eg /tag accept removes all tags except the accept tag)
   - Automatically remove the old tag when a new one is added. (eg remove pending when accepted is added)
