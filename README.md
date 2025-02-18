@@ -22,4 +22,4 @@
   - Adding a command to set the tag (eg /tag accept removes all tags except the accept tag)
   - Automatically remove the old tag when a new one is added. (eg remove pending when accepted is added)
 
-### Any suggestions and ideas are welcome, just keep in mind that it might take time.
+### Any suggestions or ideas are welcome, but keep in mind that it might take some time.
