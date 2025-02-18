@@ -16,7 +16,7 @@
 - Having a LLM check posts against the guideline when a new submission is created
 - Simple querry recognition for #ask-for-help (eg: why is my tnt not duping, is litematica updated)
 - Add an options to configure aliases, variables, copy pastes etc. Basically some commands to interface with the DB.
-- Possibly looking into translating videos. It would likely need people to look over it but it should help cut down some of the work atleast.
+- Possibly translating videos. It would still need people to look over it but it should help cut down some of the work atleast. (If it does happen, it will likely be a seperate project)
 - A command to count the number of posts that have each tags in submission.
 - Better tag managment system
   - Adding a command to set the tag (eg /tag accept removes all tags except the accept tag)
