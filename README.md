@@ -19,9 +19,7 @@
 - Have a LLM check posts against the guideline when a new submission is created
 - Simple querry recognition for #ask-for-help (eg: why is my tnt not duping, is litematica updated)
 - Add an options to configure aliases, variables, copy pastes etc. Basically some commands to interface with the DB.
-- Better tag managment system
-  - Adding a command to set the tag (eg /tag accept removes all tags except the accept tag)
-  - Automatically remove the old tag when a new one is added. (eg remove pending when accepted is added)
+- Add a command to set the tag (eg /tag accept removes all tags except the accept tag)
 
 # Other Potential Projects:
 - Using a pre trained LLM to transalte videos
