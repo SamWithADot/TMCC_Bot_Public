@@ -7,12 +7,13 @@
 
 # The following commands:
   - /Prompt <name>: This lets you pick from a few prompts and it will send it in the channel
-  - /Edit_checklist: Brings up a button pannel to edit the checlist creates in submission channel. (Advisor+)
+  - /Edit_checklist: Brings up a button pannel to edit the checklist created in submission channel. (Advisor+)
   - /Sync: syncs commands with discord (Owner only)
   - /Backup: Creates a backup of the archive (Owner only)
+  - /Youtube: Lets you search youtube, sends back a list of the top 5 filtered results for you to select from
 
 # Rough to do list:
-- Bot posts all the archival messages so any of the archivers can edit them.
+- Bot posts all the archival messages so any of the archivers can edit them. Makes it easier to move posts around too.
 - A website which has all of the archived posts from TMCC. 
 - Having a LLM check posts against the guideline when a new submission is created
 - Simple querry recognition for #ask-for-help (eg: why is my tnt not duping, is litematica updated)
