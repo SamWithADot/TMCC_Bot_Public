@@ -20,6 +20,7 @@
 - Simple querry recognition for #ask-for-help (eg: why is my tnt not duping, is litematica updated)
 - Add an options to configure aliases, variables, copy pastes etc. Basically some commands to interface with the DB.
 - Add a command to set the tag (eg /tag accept removes all tags except the accept tag)
+- Have /prompt reply whatever the user running the command was replying to
 
 # Other Potential Projects:
 - Using a pre trained LLM to transalte videos
