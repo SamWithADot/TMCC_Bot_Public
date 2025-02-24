@@ -15,7 +15,7 @@
   - /Output_log <n>: Outputs the last n values from the log file (Moderators)
   - /Restart <update = True>: Updates the bot and restarts it (Owner)
   - /Ping: Outputs the bot's latency alongside other useful statistics (Owner)
-  - ?Get_name: Outputs the name of the channel as it would appear in the embed data, only really useful for setting up the auto reply prompt (Owner) 
+  - ?get_name: Outputs the name of the channel as it would appear in the embed data, only really useful for setting up the auto reply prompt (Owner) 
 
 # Rough to do list:
 - Bot posts all the archival messages so any of the archivers can edit them. Makes it easier to move posts around too.
