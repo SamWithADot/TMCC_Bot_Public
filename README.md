@@ -21,7 +21,6 @@
 # Rough to do list:
 - Bot posts all the archival messages so any of the archivers can edit them. Makes it easier to move posts around too.
 - A website which has all of the archived posts from the discord server. 
-- Have a LLM check posts against the guideline when a new submission is created
 - Simple querry recognition for #ask-for-help (eg: why is my tnt not duping, is litematica updated)
 - Add an options to configure aliases, variables, copy pastes etc. Basically some commands to interface with the DB.
 
