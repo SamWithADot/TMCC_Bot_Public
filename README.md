@@ -1,5 +1,5 @@
 # Currently the bot can do the following thigs:
-- Automatically reply to people asking for farms. This is still a WIP
+- Automatically reply to people asking for farms
 - Automatically replies to videos from certain channel. It needs more prompts and the prompts need better formating
 - Replies in the thread if a tag is added  
 - Sends and pins a checklist in a new thread (Advisors+ to edit it)
