@@ -15,12 +15,16 @@
   - /Output_log <n>: Outputs the last n values from the log file (Moderators)
   - /Restart <update = True>: Updates the bot and restarts it (Owner)
   - /Ping: Outputs the bot's latency alongside other useful statistics (Owner)
-  - ?get_name: Outputs the name of the channel as it would appear in the embed data, only really useful for setting up the auto reply prompt (Owner)
-  - /set_tag: Lets you set the tag of the thread from all of the tags in the forum (Archiver+)
+  - ?Get_name: Outputs the name of the channel as it would appear in the embed data, only really useful for setting up the auto reply prompt (Owner)
+  - /Set_tag: Lets you set the tag of the thread from all of the tags in the forum (Archiver+)
+  - /Joke: Sends a joke from the "icanhazdadjoke" api
+  - /Reload_config: Reloads config from the database (Owner)
+  - /Restart: Restarts the bot (Owner)
 
 # Rough to do list:
 - Bot posts all the archival messages so any of the archivers can edit them. Makes it easier to move posts around too.
-- A website which has all of the archived posts from the discord server. 
+- Resolve CDN links and backup files (images/schems/world downloads)
+- A website which has all of the archived posts from the discord server (WIP, cats is working on the site). 
 - Simple querry recognition for #ask-for-help (eg: why is my tnt not duping, is litematica updated)
 - Add an options to configure aliases, variables, copy pastes etc. Basically some commands to interface with the DB.
 
