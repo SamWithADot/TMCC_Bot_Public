@@ -20,6 +20,7 @@
   - /Joke: Sends a joke from the "icanhazdadjoke" api
   - /Reload_config: Reloads config from the database (Owner)
   - /Restart: Restarts the bot (Owner)
+  - /Tic_Tac_Toe <opponent>: Play tic tac toe. You can optinally specify a user to challenge them or the bot to play against the computer.
 
 # Rough to do list:
 - Bot posts all the archival messages so any of the archivers can edit them. Makes it easier to move posts around too.
