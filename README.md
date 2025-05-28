@@ -22,14 +22,4 @@
   - /Restart: Restarts the bot (Owner)
   - /Tic_Tac_Toe <opponent>: Play tic tac toe. You can optinally specify a user to challenge them or the bot to play against the computer.
 
-# Rough to do list:
-- Bot posts all the archival messages so any of the archivers can edit them. Makes it easier to move posts around too.
-- Resolve CDN links and backup files (images/schems/world downloads)
-- A website which has all of the archived posts from the discord server (WIP, cats is working on the site). 
-- Simple querry recognition for #ask-for-help (eg: why is my tnt not duping, is litematica updated)
-- Add an options to configure aliases, variables, copy pastes etc. Basically some commands to interface with the DB.
-
-# Other Potential Projects:
-- Using a pre trained LLM to transalte videos
-
 ### Any suggestions or ideas are welcome, but keep in mind that it might take some time. Report bugs here instead of pings.
