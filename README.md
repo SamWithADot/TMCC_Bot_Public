@@ -25,4 +25,4 @@
   - /Self_Timeout <duration>: Times you out for the duration you ask for
   - /Other_Archive: Sends one big embed with all the discord invite links. Still WIP, need to make it look better. (Owner)
 
-### Any suggestions or ideas are welcome, but keep in mind that it might take some time. Report bugs here instead of pings.
+### Any suggestions or ideas are welcome, but keep in mind that it might take some time.
