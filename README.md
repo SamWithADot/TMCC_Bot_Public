@@ -20,9 +20,9 @@
   - /Ping: Outputs the bot's latency alongside other useful statistics (Owner)
   - ?Get_name: Outputs the name of the channel as it would appear in the embed data, only really useful for setting up the auto reply prompt (Owner)
   - /Set_tag: Lets you set the tag of the thread from all of the tags in the forum (Archiver+)
-  - /Joke: Sends a joke from the "icanhazdadjoke" api
+  - /Joke: Sends a joke from the "icanhazdadjoke" api (Clown+)
   - /Tic_Tac_Toe <opponent>: Play tic tac toe. You can optinally specify a user to challenge them or the bot to play against the computer
   - /Self_Timeout <duration>: Times you out for the duration you ask for
-  - /Other_Archive: Sends one big embed with all the discord invite links. Still WIP, need to make it look better.
+  - /Other_Archive: Sends one big embed with all the discord invite links. Still WIP, need to make it look better. (Owner)
 
 ### Any suggestions or ideas are welcome, but keep in mind that it might take some time. Report bugs here instead of pings.
