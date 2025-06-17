@@ -24,7 +24,7 @@
   - /Tic_Tac_Toe <opponent>: Play tic tac toe. You can optinally specify a user to challenge them or the bot to play against the computer
   - /Self_Timeout <duration>: Times you out for the duration you ask for
   - /Other_Archive: Sends one big embed with all the discord invite links. Still WIP, need to make it look better. (Owner)
-  - /Create_Overlay <message_id, horizontal_overlap, vertical_overlap>: Creates a nice looking material list overlay. Horizontal and vertical overlap determine how close the entries are in both columns and rows. (Clown+)
+  - /Create_Overlay <message_id, horizontal_overlap, font_name>: Creates a nice looking material list overlay. (Clown+)
   - /Rename_Sprite <old_name, new_name>: Just a command for me to rename any sprite file that dont match what it would be in the material list. (Owner)
 
 ### Any suggestions or ideas are welcome, but keep in mind that it might take some time.
